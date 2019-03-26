@@ -1,0 +1,31 @@
+h2
+{
+	color: blue;
+	font-size: 40px;
+
+}
+
+h3
+{
+	color: rgb(239, 171, 0);
+	font-size: 30px;
+	
+}
+
+p
+{
+	color: rgb(239, 171, 0);
+	font-size: 20px;
+	border: 3px blue dashed;
+	
+}
+
+body
+{
+	background-color: black; /* le fond de la page sera noir*/
+	background-image: url("soleil.jpg");
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+    background-position: top right; /* Le fond sera placé en haut à droite*/
+
+}
